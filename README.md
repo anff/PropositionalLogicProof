@@ -9,7 +9,7 @@ To compile PropositionalLogicProof, you will need [Coq](https://coq.inria.fr/). 
 # initialize opam
 opam init -a
 
-# create a switch named qblue and import the environment
+# create a switch named propl and import the environment
 opam switch create propl
 opam switch import opam-switch.export
 
@@ -19,7 +19,7 @@ opam list
 ```
 
 
-## Compile & Running QBlue
+## Compile & Running PropositionalLogicProof
 1. Generate Makefile if it is the first time, run `coq_makefile -f _CoqProject -o Makefile`.
 
 2. Compile, run `make` in the current directory.
