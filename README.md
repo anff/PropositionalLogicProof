@@ -1,4 +1,4 @@
-# PropositionalLogicProof 
+# PropositionalLogicProof
 This project implements the soundness and completeness in propositional logic in Rocq. 
 
 To compile PropositionalLogicProof, you will need [Coq](https://coq.inria.fr/). We recommend using [opam](https://opam.ocaml.org/doc/Install.html) to install Coq and `opam switch` to manage Coq versions. We currently support Coq **versions 8.16**.
