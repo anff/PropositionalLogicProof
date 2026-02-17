@@ -1,0 +1,10 @@
+-Q . PropLogic
+Syntax.v
+Semantics.v
+ProofSystem.v
+Soundness.v
+Completeness.v
+Main.v
+
+
+
